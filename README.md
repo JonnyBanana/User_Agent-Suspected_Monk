@@ -24,7 +24,8 @@ https://codepen.io/poziomq/pen/YGRdKG</p>
 I used a simple function in the css file that uses the user agent to determine the browser </BR>
 and select a different background depending on the browser used.</p>
 <p>With Opera, Chrome and Safari the good facade of the monk opens up, </BR>
- but if you really want to know the truth about the monk, open it with mozilla...</p>
+ but if you really want to know the truth about the monk, open it with mozilla...</BR>
+ (or IE, but Mozilla is better!)</p>
 
 
 <p>If you are interested in seeing my other works, i invite you to visit my wiki:
