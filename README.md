@@ -16,9 +16,15 @@ https://codepen.io/poziomq/pen/YGRdKG</p>
 <p>Chrome, Opera, Mozilla, IE, safari, Edge and Netscape Navigator (lol!!! it's a joke)</p>
 
 
-<p>Incredibly even Internet Explorer can read the code without any problem....</BR> (some say there is a hand of the reptilians)</p>
+<p>Incredibly even Internet Explorer can read the code without any problem!</BR> (some say there is a hand of the reptilians...)</p>
 
 </BR>
+
+<p>the simply goal is that the animation changes background depending on the browser.</BR>
+I used a simple function in the css file that uses the user agent to determine the browser </BR>
+and select a different background depending on the browser used.</p>
+
+
 
 <p>If you are interested in seeing my other works, i invite you to visit my wiki:
 https://jonnybanana.github.io/wiki.html</p>
