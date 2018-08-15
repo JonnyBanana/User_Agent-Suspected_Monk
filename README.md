@@ -23,6 +23,7 @@ https://codepen.io/poziomq/pen/YGRdKG</p>
 <p>the simply goal is that the animation changes background depending on the browser.</BR>
 I used a simple function in the css file that uses the user agent to determine the browser </BR>
 and select a different background depending on the browser used.</p>
+![alt text](https://media.giphy.com/media/1eEH7B8RKd1pwkAYYo/giphy.gif)
 <p>With Opera, Chrome and Safari the good facade of the monk opens up, </BR>
  but if you really want to know the truth about the monk, open it with mozilla...</BR>
  (or IE, but Mozilla is better!)</p>
