@@ -13,7 +13,7 @@ https://codepen.io/poziomq/pen/YGRdKG</p>
 
 </BR>
 <h3>Browser Compatibility:</h3>
-<p>Chrome, Opera, Mozilla, IE, safari, Edge and Netscape Navigator (lol!!! it's a joke)</p>
+<p>Chrome, Opera, Mozilla, IE, safari, Edge and Netscape Navigator (lol!!!Obviously it's a joke)</p>
 
 
 <p>Incredibly even Internet Explorer can read the code without any problem!</BR> (some say there is a hand of the reptilians...)</p>
