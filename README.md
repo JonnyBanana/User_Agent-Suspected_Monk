@@ -2,10 +2,10 @@
 Animation in Pure CSS3 and HTML5, the animation uses the User Agent to change the background depending on the browser
 
 
-![alt text](https://media.giphy.com/media/KXsvOPCe4DdwK21Kgu/giphy.gif)
+![alt text](https://i.imgur.com/RypTrcJ.jpg)
 
 <p>For this animation I started from this project:
-https://codepen.io/poziomq/pen/NbjZpG</p>
+https://codepen.io/poziomq/pen/YGRdKG</p>
 
 <p>The code is totally responsive and fits very well with every type of screen and device.<p>
   
@@ -17,9 +17,6 @@ https://codepen.io/poziomq/pen/NbjZpG</p>
 
 
 <p>Incredibly even Internet Explorer can read the code without any problem....</BR> (some say there is a hand of the reptilians)</p>
-
-
-![alt text](https://i.imgur.com/jIwHlS3.jpg)
 
 </BR>
 
