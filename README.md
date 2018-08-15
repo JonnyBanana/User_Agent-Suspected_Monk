@@ -20,7 +20,7 @@ https://codepen.io/poziomq/pen/YGRdKG</p>
 
 </BR>
 
-<p>the simply goal is that the animation changes background depending on the browser.</BR>
+<p>The simply goal is that the animation changes background depending on the browser.</BR>
 I used a simple function in the css file that uses the user agent to determine the browser </BR>
 and select a different background depending on the browser used.</p>
 
