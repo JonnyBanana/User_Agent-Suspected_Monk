@@ -8,14 +8,15 @@ Animation in Pure CSS3 and HTML5, the animation uses the User Agent to change th
 https://codepen.io/poziomq/pen/NbjZpG</p>
 
 <p>The code is totally responsive and fits very well with every type of screen and device.<p>
+  
+ 
 
 </BR>
 <h3>Browser Compatibility:</h3>
 <p>Chrome, Opera, Mozilla, IE, safari, Edge and Netscape Navigator (lol!!! it's a joke)</p>
 
-Incredibly even Internet Explorer can read the code without any problem....</BR> (some say there is a hand of the reptilians)
 
-<p>.</p>
+<p>Incredibly even Internet Explorer can read the code without any problem....</BR> (some say there is a hand of the reptilians)</p>
 
 
 ![alt text](https://i.imgur.com/jIwHlS3.jpg)
